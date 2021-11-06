@@ -1,0 +1,8 @@
+{
+	"description": "This is a normal channel",
+	"permissions": "sync",
+	"private": {
+		"members": [],
+		"roles": []
+	}
+}

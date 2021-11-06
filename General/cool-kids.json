@@ -1,0 +1,9 @@
+{
+	"description": "This is the cool kids channel",
+	"permissions": "sync",
+	"private": {
+		"roles": [
+			"1"
+		]
+	}
+}

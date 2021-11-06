@@ -1,0 +1,62 @@
+{
+	"0": {
+		"name": "everyone",
+		"id": "default",
+		"color": "default",
+		"hoist": false,
+		"mentionable": false,
+		"permissions": 68608,
+		"position": 9999,
+		"boost": false
+	},
+	"1": {
+		"name": "Cool Kid",
+		"id": "906619841270669373",
+		"color": "#84c5c3",
+		"hoist": false,
+		"mentionable": true,
+		"permissions": 517647748673,
+		"position": 4,
+		"boost": false
+	},
+	"2": {
+		"name": "Admin",
+		"id": "906622309870227526",
+		"color": "#67a25c",
+		"hoist": true,
+		"mentionable": false,
+		"permissions": 8,
+		"position": 1,
+		"boost": false
+	},
+	"3": {
+		"name": "Invisible",
+		"id": "906622553924190229",
+		"color": "#36393f",
+		"hoist": false,
+		"mentionable": false,
+		"permissions": 0,
+		"position": 5,
+		"boost": false
+	},
+	"4": {
+		"name": "Moderator",
+		"id": "906631810090422343",
+		"color": "#d42121",
+		"hoist": true,
+		"mentionable": true,
+		"permissions": 2042757522,
+		"position": 2,
+		"boost": false
+	},
+	"5": {
+		"name": "Boosted",
+		"id": "906638514123313202",
+		"color": "#da48d3",
+		"hoist": true,
+		"mentionable": false,
+		"permissions": 0,
+		"position": 3,
+		"boost": true
+	}
+}
