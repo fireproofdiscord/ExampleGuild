@@ -1,10 +1,12 @@
 {
 	"type": "text",
 	"description": "This is the cool kids channel",
-	"permissions": "sync",
-	"private": {
-		"roles": [
-			"1"
-		]
+	"permissions": {
+		"0": {
+			"VIEW_CHANNEL": false
+		},
+		"1": {
+			"VIEW_CHANNEL": true
+		}
 	}
 }
