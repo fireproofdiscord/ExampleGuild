@@ -1,4 +1,5 @@
 {
+	"type": "text",
 	"description": "This is a normal channel",
 	"permissions": "sync",
 	"private": {

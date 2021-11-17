@@ -1,4 +1,5 @@
 {
+	"type": "news",
 	"description": "This is the announcements channel",
 	"permissions": "sync",
 	"private": false
