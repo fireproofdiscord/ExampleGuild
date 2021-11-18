@@ -1,6 +1,6 @@
 {
 	"type": "text",
-	"description": "Everyone can see this channel but only cool kids can send messages",
+	"topic": "Everyone can see this channel but only cool kids can send messages",
 	"permissions": {
 		"0": {
 			"SEND_MESSAGES": false

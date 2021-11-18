@@ -1,6 +1,6 @@
 {
 	"type": "text",
-	"description": "This is the cool kids channel",
+	"topic": "This is the cool kids channel",
 	"permissions": {
 		"0": {
 			"VIEW_CHANNEL": false

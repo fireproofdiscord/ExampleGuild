@@ -1,5 +1,5 @@
 {
 	"type": "text",
-	"description": "This is a normal channel",
+	"topic": "This is a normal channel",
 	"permissions": {}
 }
