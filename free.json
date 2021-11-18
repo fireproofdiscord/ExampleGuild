@@ -1,6 +1,6 @@
 {
 	"type": "text",
 	"description": "This is a free channel (no category) 🦀",
-	"permissions": "sync",
+	"permissions": {},
 	"private": false
 }
